@@ -1,0 +1,3 @@
+print("5>3")
+city 1 =" Bangalore"
+print(" city 1 is bangalore"
